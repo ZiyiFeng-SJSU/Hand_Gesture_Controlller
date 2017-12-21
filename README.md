@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><b>Hand Gesture Controller</b></h1>   
 
 # Prerequisites
@@ -26,3 +27,6 @@ Go to sub-directory:
 `cd TODO`  
 Run .sh to run   
 `./TODO.sh`
+=======
+# Hand_Gesture_Controlller
+>>>>>>> 18d42a1706dc8cbdf0eed82827a334249fa75522
