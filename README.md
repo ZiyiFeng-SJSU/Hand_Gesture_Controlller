@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center"><b>Hand Gesture Controller</b></h1>   
 
 # Prerequisites
