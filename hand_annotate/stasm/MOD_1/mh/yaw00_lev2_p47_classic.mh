@@ -1,0 +1,33 @@
+// yaw00_lev2_p47_classic.mh: machine generated classical descriptor matcher
+//
+// Command: tasm /home/lanceb247/hand_shape_files/tasm.shape
+
+#ifndef STASM_YAW00_LEV2_P47_CLASSIC_MH
+#define STASM_YAW00_LEV2_P47_CLASSIC_MH
+
+namespace stasm {
+
+// static const int EYEMOUTH_DIST = 100;
+// static const double PYR_RATIO = 2;
+
+static const double yaw00_lev2_p47_prof[9] = // mean profile
+{
+    -0.235552, -0.364261, 0.625474, 0.703535, -0.882197, 0.28167, 0.157254, 0.0262695, -0.0551194
+};
+static const double yaw00_cov_lev2_p47[9*9] = // covariance matrix
+{
+    1.33796, 1.33289, 1.32967, 1.28845, 0.990669, 0.483883, 0.346676, 0.270799, -0.0102801,
+    1.33289, 4.18637, 3.98574, 3.97362, 3.5065, 2.48066, 1.47201, 0.751944, 0.852364,
+    1.32967, 3.98574, 5.16036, 5.15668, 4.12494, 3.06787, 1.51821, 0.967291, 0.752368,
+    1.28845, 3.97362, 5.15668, 8.15489, 6.68454, 6.21157, 2.62483, 1.7654, 0.645371,
+    0.990669, 3.5065, 4.12494, 6.68454, 8.61371, 8.18704, 4.72812, 2.93913, 1.22112,
+    0.483883, 2.48066, 3.06787, 6.21157, 8.18704, 9.35627, 5.51315, 3.847, 1.52071,
+    0.346676, 1.47201, 1.51821, 2.62483, 4.72812, 5.51315, 5.01365, 3.08616, 1.7588,
+    0.270799, 0.751944, 0.967291, 1.7654, 2.93913, 3.847, 3.08616, 2.87345, 1.35125,
+    -0.0102801, 0.852364, 0.752368, 0.645371, 1.22112, 1.52071, 1.7588, 1.35125, 1.81982
+};
+
+static const ClassicDescMod yaw00_lev2_p47_classic(9, yaw00_lev2_p47_prof, yaw00_cov_lev2_p47);
+
+} // namespace stasm
+#endif // STASM_YAW00_LEV2_P47_CLASSIC_MH

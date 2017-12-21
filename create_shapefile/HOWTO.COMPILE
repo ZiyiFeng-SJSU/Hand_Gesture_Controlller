@@ -1,0 +1,1 @@
+g++ -o create_shapefile create_shapefile.cpp -L/usr/local/pgsql/lib -lpq
