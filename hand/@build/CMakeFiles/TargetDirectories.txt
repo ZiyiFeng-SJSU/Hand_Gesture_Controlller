@@ -1,0 +1,14 @@
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/install.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/edit_cache.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/rebuild_cache.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/Vidtest.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/minimal2.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/stasm.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/stasmMain.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/list_install_components.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/install/strip.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/install/local.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/minimal.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/tasm.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/swas.dir
+/home/lanceb247/progs/hand_annotate/@build/CMakeFiles/test.dir
